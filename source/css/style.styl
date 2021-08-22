@@ -15,7 +15,7 @@ a {
 }
 
 body {
-    max-width: 1100px;
+    max-width: 1160px;
     margin: auto !important;
 }
 
@@ -135,10 +135,6 @@ body {
         }
     }
 
-    input::-webkit-search-decoration, input::-webkit-search-cancel-button {
-        display: none !important;
-    }
-
     .nexmoe-social {
         padding: 12px;
         font-size: 0;
@@ -161,17 +157,17 @@ body {
         .nexmoe-list-item {
             padding: 0 36px;
             color: #9ca2a8;
+            transition: all 0.35s ease-out;
             border-radius: $radius;
             margin-bottom: 10px;
             text-align: center;
-            transition: none!important;
         }
 
-        .nexmoe-list-item.true, .nexmoe-list-item.true i {
+        .nexmoe-list-item.active, .nexmoe-list-item.active i {
             color: #fff;
         }
 
-        .nexmoe-list-item.true {
+        .nexmoe-list-item.active {
             opacity: 0.9;
             background: $color;
             box-shadow: 0 2px 12px $color;
@@ -184,6 +180,7 @@ body {
 
         .nexmoe-list-item .mdui-list-item-content {
             margin-left: 0px;
+            transition: all 0.35s ease-out;
         }
     }
 
@@ -270,7 +267,7 @@ body {
         color: #777;
         white-space: normal;
         margin-bottom: 20px;
-        font-size: 12px;
+
         a {
             color: rgba(255, 78, 106, 1);
         }
@@ -536,7 +533,6 @@ body {
         .nexmoe-list-item {
             padding: 0 17px;
             color: #9ca2a8;
-            
         }
 
         .mdui-list-item-icon~.mdui-list-item-content {

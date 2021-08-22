@@ -11,24 +11,16 @@
  - 图片瀑布流
  - 社交按钮
 
-## 🎓 使用说明
+## 🎓 教程
 请查看 [https://docs.nexmoe.com/](https://docs.nexmoe.com/)
 
 ## 💻 演示
 
-[视频演示点我](https://www.bilibili.com/video/BV1Gv411J79T)
+欢迎将你的网站提交到这里来
 
-欢迎将你的网站提交到这里来 [点我提交演示站点](https://github.com/theme-nexmoe/hexo-theme-nexmoe/discussions/145) 或 [直接编辑（推荐）](https://github.com/theme-nexmoe/hexo-theme-nexmoe/edit/master/README.md)
-
-| 站点                                  | 状态                                                         |
-| ------------------------------------- | ------------------------------------------------------------ |
-| [折影轻梦](https://nexmoe.com/)       | ![折影轻梦](https://img.shields.io/website?url=https://nexmoe.com/) |
-| [官方示例](https://hexo-theme-nexmoe-example.vercel.app/)   | ![官方示例](https://img.shields.io/website?url=https://hexo-theme-nexmoe-example.vercel.app/)  |
-| [糖羽仙](https://www.tangyuxian.com/) | ![萌糖官方网站](https://img.shields.io/website?url=https://www.tangyuxian.com/)  |
-| [深海小涛](https://hexo.xtaolink.cn/) | ![深海小涛](https://img.shields.io/website?url=https://hexo.xtaolink.cn/)  |
-| [西瓜星 🍉✨](https://suikastar.com/)   | ![西瓜星 🍉✨](https://img.shields.io/website?url=https://suikastar.com/)  |
-| [LittleDeng](https://lde.ng/)   | ![LittleDeng](https://img.shields.io/website?url=https://lde.ng/)  |
-| [fly6022's Blog](https://blog.fly6022.fun)   | ![fly6022's Blog](https://img.shields.io/website?url=https://blog.fly6022.fun)  |
+- [Nexmoe](https://nexmoe.com/)
+- [深海小涛](https://hexo.xtaolink.cn/)
+- [西瓜星 🍉✨](https://suikastar.com/)
 
 ## 💻 贡献者
 
@@ -41,14 +33,28 @@
  - Solo-InkDP：https://github.com/InkDP/solo-nexmoe
  - Hexo-Dark： https://github.com/confuseder/hexo-theme-dark
 
-## 💴 赞助我促进更新
-有问题可以在留言处提问
-![支付二维码](https://i.dawnlab.me/ee0093ead3ca8145522ba766c3f9a0ee.png)
+## 🌏 国际化
+
+支持多语言，默认语言为简体中文。
+目前中文翻译较全，其他语言翻译不完全，有余力的大佬可以来贡献一下
+语言文件在 languages 里，参考 `zh-CN.yml` 进行翻译即可
+
+> 非常欢迎你帮助我们将 Nexmoe 翻译至其他语言！
+
+## 📄 许可证
+
+<a href="https://github.com/nexmoe/hexo-theme-nexmoe/blob/master/LICENSE"><img alt="license" src="https://img.shields.io/github/license/nexmoe/hexo-theme-nexmoe.svg"/></a>
+
+根据 Apache License 2.0 许可证开源。
+
+## 赞助我促进更新
+爱发电链接：https://afdian.net/@nexmoe
+![支付二维码](https://i.speed.moe/images/d2c45ec8fb10867e4c2d53ded62fbfb6.png)
 
 ## 🍻 后续更新
+就读高中，
 star 以及 issue 是我更新的动力!
 欢迎加群 [482634342 轻惋漫社](https://jq.qq.com/?_wv=1027&k=5CfKHun) 划水
 
-讨论主题，进主题讨论群：614621637
-     
-[![Powered By Vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg "Powered By Vercel")](https://vercel.com/?utm_source=theme-nexmoe&utm_campaign=oss "Powered By Vercel")
+主题讨论群：614621637
+      
