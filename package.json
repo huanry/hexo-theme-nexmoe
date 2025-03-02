@@ -37,7 +37,7 @@
   "deprecated": false,
   "description": "🔥 A special hexo theme.",
   "devDependencies": {
-    "eslint": "^7.16.0"
+    "eslint": "^9.21.0"
   },
   "homepage": "https://github.com/theme-nexmoe/hexo-theme-nexmoe",
   "keywords": [
